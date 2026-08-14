@@ -6,14 +6,33 @@ A collection of lightweight, zero-dependency automation scripts and utilities de
 
 ---
 
-## 🧰 Included Tools
+## Included Tools
 
 | Utility | Language | Description |
 | :--- | :--- | :--- |
-| [**Downloads Organizer**](./downloads_organizer) | Python | Automatically categorizes messy Download folders into structured subdirectories. |
-| [**YouTube Mass Unsubscribe**](./youtube_unsubscribe) | JavaScript | Browser console script to mass unsubscribe from YouTube channels in bulk. |
-| [**Large File Finder**](./large_file_finder) | Python | Scans directories to find and rank the largest "disk hog" files wasting drive space. |
+| [**Downloads Organizer**](./downloads_organizer) | Python | Automatically categorizes messy download folders into structured subdirectories by file extension. |
+| [**Large File Finder**](./large_file_finder) | Python | Scans directories to locate space-consuming files and hidden virtual disk allocations. |
+| [**YouTube Unsubscribe**](./youtube_unsubscribe) | JavaScript | Browser console automation script to bulk unsubscribe from YouTube channels. |
+| [**Port Info**](./port_info) | Python | CLI diagnostic tool to analyze active TCP ports, process chains, resource usage, and Docker bindings. |
+
 ---
+
+## Key Principles
+
+* **Zero Third-Party Dependencies:** All scripts rely exclusively on native language standard libraries and built-in system utilities.
+* **Cross-Platform Compatibility:** Designed and tested for macOS and Linux operating environments.
+* **Safe & Non-Destructive:** Built with explicit validation checks and confirmations prior to executing destructive actions.
+
+---
+
+## Getting Started
+
+Clone the repository and run any tool directly:
+
+```bash
+git clone [https://github.com/your-username/small_utilities.git](https://github.com/your-username/small_utilities.git)
+cd small_utilities/
+python3 .py
 
 ## 📄 License
 
