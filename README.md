@@ -15,6 +15,7 @@ A collection of lightweight, zero-dependency automation scripts and utilities de
 | [**YouTube Unsubscribe**](./youtube_unsubscribe) | JavaScript | Browser console automation script to bulk unsubscribe from YouTube channels. |
 | [**Port Info**](./port_info) | Python | CLI diagnostic tool to analyze active TCP ports, process chains, resource usage, and Docker bindings. |
 | [**Environment Details**](./env_details) | Python | CLI auditor for jump boxes and new dev machines to inspect PATH, DNS, Git identity, tooling, and security posture. |
+| [**Scheduled Jobs Inspector**](./scheduled_jobs) | Python | CLI diagnostic tool to audit crontabs and systemd timers, translate cron expressions, and flag silent job failures. |
 
 ---
 
