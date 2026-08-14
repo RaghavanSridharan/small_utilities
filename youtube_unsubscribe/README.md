@@ -19,7 +19,4 @@ Go to your YouTube channel management page in your browser:
 * **Windows/Linux:** Press `Ctrl` + `Shift` + `J` or `F12`
 * **Mac:** Press `Cmd` + `Option` + `J`
 
-### 3. Unlock Paste Protection (Chrome Security)
-If Chrome blocks you from pasting code into DevTools, type the following into the console and press **Enter**:
-```text
-allow pasting
+
