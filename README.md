@@ -14,6 +14,7 @@ A collection of lightweight, zero-dependency automation scripts and utilities de
 | [**Large File Finder**](./large_file_finder) | Python | Scans directories to locate space-consuming files and hidden virtual disk allocations. |
 | [**YouTube Unsubscribe**](./youtube_unsubscribe) | JavaScript | Browser console automation script to bulk unsubscribe from YouTube channels. |
 | [**Port Info**](./port_info) | Python | CLI diagnostic tool to analyze active TCP ports, process chains, resource usage, and Docker bindings. |
+| [**Environment Details**](./env_details) | Python | CLI auditor for jump boxes and new dev machines to inspect PATH, DNS, Git identity, tooling, and security posture. |
 
 ---
 
