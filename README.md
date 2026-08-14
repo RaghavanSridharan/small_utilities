@@ -15,7 +15,7 @@ A curated collection of zero-dependency, lightweight command-line utilities desi
 | [**Environment Details**](./env_details) | Python | Day 1 environment auditor for jump boxes and new dev machines to inspect PATH, DNS, Git identity, tooling, and security posture. |
 | [**Service Health Snapshot**](./service_health) | Python | Systemd-aware CLI diagnostic tool to detect failed services, crash loops, and monitor critical background daemons. |
 | [**Scheduled Jobs Inspector**](./scheduled_jobs) | Python | CLI diagnostic tool to audit crontabs and systemd timers, translate cron expressions, and flag silent job failures. |
-
+| [**Node / Cluster Diff Tool**](./node_diff) | Python | Multi-node drift detector to compare JSON reports across cluster nodes and isolate outlier configurations. |
 ---
 
 ## Key Principles
