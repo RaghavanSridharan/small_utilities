@@ -12,7 +12,7 @@ A collection of lightweight, zero-dependency automation scripts and utilities de
 | :--- | :--- | :--- |
 | [**Downloads Organizer**](./downloads_organizer) | Python | Automatically categorizes messy Download folders into structured subdirectories. |
 | [**YouTube Mass Unsubscribe**](./youtube_unsubscribe) | JavaScript | Browser console script to mass unsubscribe from YouTube channels in bulk. |
-
+| [**Large File Finder**](./large_file_finder) | Python | Scans directories to find and rank the largest "disk hog" files wasting drive space. |
 ---
 
 ## 📄 License
